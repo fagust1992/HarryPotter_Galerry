@@ -8,7 +8,7 @@ const Header = ({ruta_img,ruta_img2})=>{
 <img src={ruta_img2} alt="" />
 </header>
 <div className="header-titulo ">
- <h1>VIEW PAST 1 DISCUSSIONS</h1>
+ <h1>VIEW PAST 2 DISCUSSIONS</h1>
  <div className="logo"> <img src={ruta_img} alt="" /></div>
 
 </div>
